@@ -39,7 +39,7 @@ A full-stack web application for efficiently managing hostel-related tasks such 
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots 
 
 > ## Login Page
 ![image](https://github.com/user-attachments/assets/e1495f55-f2e8-4ead-8408-174f0025eec3)
